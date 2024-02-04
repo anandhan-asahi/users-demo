@@ -1,0 +1,10 @@
+.user-cart {
+  background-color: grey;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  height: 100px;
+  width: 75vw;
+  border-radius: 15px;
+  margin-bottom: 25px;
+}
